@@ -1,0 +1,26 @@
+{
+  "name": "fetch-zeppelin-medium-story",
+  "version": "1.0.0",
+  "description": "Periodically fetch blog post info published in Zeppelin Story channel\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "AhyoungRyu",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.9.0",
+    "bluebird": "^3.4.7",
+    "json-format": "^1.0.0",
+    "rss-to-json": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhyoungRyu/fetch-zeppelin-medium-story.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AhyoungRyu/fetch-zeppelin-medium-story/issues"
+  },
+  "homepage": "https://github.com/AhyoungRyu/fetch-zeppelin-medium-story#readme"
+}
