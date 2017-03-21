@@ -12,7 +12,7 @@
     "aws-sdk": "^2.9.0",
     "bluebird": "^3.4.7",
     "json-format": "^1.0.0",
-    "rss-to-json": "^1.0.2"
+    "rss-to-json-extends": "0.0.1"
   },
   "devDependencies": {},
   "repository": {

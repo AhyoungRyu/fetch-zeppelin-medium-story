@@ -7,7 +7,7 @@ var s3 = new AWS.S3(
   }
 )
 
-var Feed = require('rss-to-json')
+var Feed = require('rss-to-json-extends')
 var Promise = require('bluebird')
 var jsonFormat = require('json-format')
 
